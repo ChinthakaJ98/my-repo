@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: test-01
+  description: API Definition of test-01
+  version: 1.0.0
+servers:
+- url: http://localhost:8290/test-01
+- url: https://localhost:8253/test-01
+paths:
+  /:
+    get:
+      responses:
+        default:
+          description: Default response

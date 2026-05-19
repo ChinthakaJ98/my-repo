@@ -13,7 +13,7 @@
         <module>module-03</module>
     </modules>
     <properties>
-        <project.runtime.version>4.5.0</project.runtime.version>
+        <project.runtime.version>4.6.0</project.runtime.version>
         <projectType>integration-project</projectType>     
         <car.plugin.version>5.4.16</car.plugin.version>
         <maven.compiler.source>1.8</maven.compiler.source>
